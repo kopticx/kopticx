@@ -1,3 +1,3 @@
-### Hi there 👋
+### Hi there! I'm kopticx 👋
 
-![Kopticx's GitHub stats](https://github-readme-stats.vercel.app/api?username=kopticx&show_icons=true&theme=radical)
+![kopticx's GitHub stats](https://github-readme-stats.vercel.app/api?username=kopticx&show_icons=true&theme=radical)
